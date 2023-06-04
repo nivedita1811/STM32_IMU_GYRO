@@ -1,0 +1,10 @@
+../Core/Src/main.c:48:6:delay	16	static
+../Core/Src/main.c:52:9:SPI_WriteReadByte	40	static
+../Core/Src/main.c:58:6:L3GD20_Init	40	static
+../Core/Src/main.c:70:6:L3GD20_ReadGyro	40	static
+../Core/Src/main.c:110:5:main	104	static
+../Core/Src/main.c:164:6:SystemClock_Config	112	static
+../Core/Src/main.c:207:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:247:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:282:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:311:6:Error_Handler	8	static,ignoring_inline_asm
